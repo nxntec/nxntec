@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nixon
+- 👋 Hi, I’m Nix
 - 👀 I’m interested in internet | website | startup |
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development for SME sector
